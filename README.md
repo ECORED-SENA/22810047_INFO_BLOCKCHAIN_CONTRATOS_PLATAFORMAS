@@ -1,7 +1,7 @@
-# **524703_INFO_TEC_ANIMACION_3D**
+# **22810047_INFO_BLOCKCHAIN_CONTRATOS_PLATAFORMAS**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/524703_INFO_TEC_ANIMACION_3D/](https://ecored-sena.github.io/524703_INFO_TEC_ANIMACION_3D/)
+[https://ecored-sena.github.io/22810047_INFO_BLOCKCHAIN_CONTRATOS_PLATAFORMAS/](https://ecored-sena.github.io/22810047_INFO_BLOCKCHAIN_CONTRATOS_PLATAFORMAS/)
 
 #
